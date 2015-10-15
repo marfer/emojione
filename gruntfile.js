@@ -251,7 +251,7 @@ module.exports = function (grunt) {
             target: {
                 files: {
                     'assets/css/emojione.min.css': ['assets/css/emojione.css'],
-                    'assets/sprites/emojione.sprites.css': ['assets/sprites/emojione.sprites.css']
+                    'assets/sprites/emojione.sprites.min.css': ['assets/sprites/emojione.sprites.css']
                 }
             }
         },
